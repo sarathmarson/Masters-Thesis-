@@ -3,7 +3,7 @@
 This repository contains detailed overview of my master's thesis- 'Effects of Transfer Learning on Chess Piece Recognition'. 
 
 
-## Steps 
+## Steps for Chess piece recognition
 Following are the steps required to perform chess piece recognition using my algorithm.
 
 ### Clone reference repository
