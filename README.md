@@ -32,9 +32,15 @@ Mixed dataset: https://drive.google.com/drive/folders/1gsqf2lcHBDezKyWK3WORbgXg9
 
 The datasets can be cloned into colab using the following commands:
 
-First chessboard dataset:  !git clone https://github.com/sarathmarson/chessboard_hd_1.git
+First chessboard dataset:
 
-Second chessboard dataset: !git clone https://github.com/sarathmarson/chessboard_hd_2.git
+    !git clone https://github.com/sarathmarson/chessboard_hd_1.git
+
+Second chessboard dataset: 
+
+    !git clone https://github.com/sarathmarson/chessboard_hd_2.git
+    
+Mixed dataset can be obtained by combining the above two datasets.    
 
 ### Output obtained for each case using the detection algorithm
 
