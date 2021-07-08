@@ -30,7 +30,24 @@ Mixed dataset: https://drive.google.com/drive/folders/1gsqf2lcHBDezKyWK3WORbgXg9
 
 ### Output obtained using the detection algorithm
 
-The output obtained for first chessboard using the trained weights of first chessbaord data is illustrated in :
+A python script for detection is run on the PC with weights for the first chessboard data. The twelve different classes are detected by the system, and their
+names are displayed in bounding boxes along with their confidence of prediction as shown in figure:
+
+![alt text](images/ch_sm_ori.png)
+
+The python script for detecting pieces of the second chessboard is executed using the corresponding weights. The output obtained for the second chessboard along with prediction confidence is shown in the following figure:
+
+![alt text](images/ch_big_ori.png)
+
+Testing of first chess board is performed using the mixed weights of both first and second chessboard data. A sample of detection obtained along with the percentage of confidence is illustrated in the figure below: 
+
+![alt text](images/ch_sm_mix.png)
+
+Mixed weights obtained by training both first and second chessboard data are now used to test the detection in the second chessboard. The figure below depicts the results obtained:
+
+![alt text](images/ch_big_mix.png)
+
+
 
 
 
