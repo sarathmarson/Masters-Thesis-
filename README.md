@@ -28,6 +28,17 @@ Second chessboard data: https://drive.google.com/drive/folders/1OvPxm3VnZXlhcpKX
 
 Mixed dataset: https://drive.google.com/drive/folders/1gsqf2lcHBDezKyWK3WORbgXg9UxSNNbL?usp=sharing
 
+### Output obtained using the detection algorithm
+
+The output obtained for first chessboard using the trained weights of first chessbaord data is illustrated in :
+
+
+
+
+
+
+
+
 
 
 
