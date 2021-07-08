@@ -6,7 +6,7 @@ This repository contains detailed overview of my master's thesis- 'Effects of Tr
 ## Steps for Chess piece recognition
 Following are the steps required to perform chess piece recognition using my algorithm.
 
-### Clone reference repository
+### Clone yolov3 tensorflow repository
 
 The steps for performing detection using YOLOv3 is described in detail in https://github.com/zzh8829/yolov3-tf2 . This repsoitory is cloned in to our colab working environemnt using the following operation: 
 
