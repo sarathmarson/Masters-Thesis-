@@ -28,6 +28,14 @@ Second chessboard data: https://drive.google.com/drive/folders/1OvPxm3VnZXlhcpKX
 
 Mixed dataset: https://drive.google.com/drive/folders/1gsqf2lcHBDezKyWK3WORbgXg9UxSNNbL?usp=sharing
 
+### Datasets of first and second chessboards
+
+The datasets can be cloned into colab using the following commands:
+
+First chessboard dataset:  !git clone https://github.com/sarathmarson/chessboard_hd_1.git
+
+Second chessboard dataset: !git clone https://github.com/sarathmarson/chessboard_hd_2.git
+
 ### Output obtained for each case using the detection algorithm
 
 #### Case 1: First Chessboard using weights of first chessboard data
