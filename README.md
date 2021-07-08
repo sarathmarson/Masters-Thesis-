@@ -1,4 +1,4 @@
-# Masters-Thesis- Effects of Transfer Learning on Chess Piece Recognition
+# Master's Thesis:- Effects of Transfer Learning on Chess Piece Recognition
 
 This repository contains detailed overview of my master's thesis- 'Effects of Transfer Learning on Chess Piece Recognition'. 
 
@@ -17,6 +17,19 @@ The steps for performing detection using YOLOv3 is described in detail in https:
 Then, the python scripts given in this repository are cloned into the above repository. For cloning this repsoitory into colab, use the command shown below:
 
     !git clone https://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@github.com/sarathmarson/Masters-Thesis-.git
+    
+### Weights of datasets
+
+The trained weights of three different datasets can be downloaded from the links given below:
+
+First chessboard data: https://drive.google.com/drive/folders/1aqGtr6g33wydPfuyJZREFyp73YHcrW3N?usp=sharing
+
+Second chessboard data: https://drive.google.com/drive/folders/1OvPxm3VnZXlhcpKXZjSb9Vn5Anttiq1Z?usp=sharing
+
+Mixed dataset: https://drive.google.com/drive/folders/1gsqf2lcHBDezKyWK3WORbgXg9UxSNNbL?usp=sharing
+
+
+
 
 
 
