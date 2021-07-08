@@ -16,7 +16,7 @@ The steps for performing detection using YOLOv3 is described in detail in https:
 
 Then, the python scripts given in this repository are cloned into the above repository. For cloning this repsoitory into colab, use the command shown below:
 
-    !git clone https://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@github.com/sarathmarson/Masters-Thesis-.git
+    !git clone https://github.com/sarathmarson/Masters-Thesis-.git
     
 ### Weights of datasets
 
