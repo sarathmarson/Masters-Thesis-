@@ -1,6 +1,6 @@
 # Master's Thesis:- Effects of Transfer Learning on Chess Piece Recognition
 
-This repository contains detailed overview of my master's thesis- 'Effects of Transfer Learning on Chess Piece Recognition'. 
+This repository deals with implementation my master's thesis- 'Effects of Transfer Learning on Chess Piece Recognition'. 
 
 
 ## Steps for Chess piece recognition
