@@ -18,15 +18,6 @@ Then, the python scripts given in this repository are cloned into the above repo
 
     !git clone https://github.com/sarathmarson/Masters-Thesis-.git
     
-### Weights of datasets
-
-The trained weights of three different datasets can be downloaded from the links given below:
-
-First chessboard data: https://drive.google.com/drive/folders/1aqGtr6g33wydPfuyJZREFyp73YHcrW3N?usp=sharing
-
-Second chessboard data: https://drive.google.com/drive/folders/1OvPxm3VnZXlhcpKXZjSb9Vn5Anttiq1Z?usp=sharing
-
-Mixed dataset: https://drive.google.com/drive/folders/1gsqf2lcHBDezKyWK3WORbgXg9UxSNNbL?usp=sharing
 
 ### Datasets of first and second chessboards
 
@@ -41,6 +32,17 @@ Second chessboard dataset:
     !git clone https://github.com/sarathmarson/chessboard_hd_2.git
     
 Mixed dataset can be obtained by combining the above two datasets.    
+
+### Weights of datasets
+
+The trained weights of three different datasets can be downloaded from the links given below:
+
+First chessboard data: https://drive.google.com/drive/folders/1aqGtr6g33wydPfuyJZREFyp73YHcrW3N?usp=sharing
+
+Second chessboard data: https://drive.google.com/drive/folders/1OvPxm3VnZXlhcpKXZjSb9Vn5Anttiq1Z?usp=sharing
+
+Mixed dataset: https://drive.google.com/drive/folders/1gsqf2lcHBDezKyWK3WORbgXg9UxSNNbL?usp=sharing
+
 
 ### Output obtained for each case using the detection algorithm
 
